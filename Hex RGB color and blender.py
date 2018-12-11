@@ -55,3 +55,12 @@ hexcolor(0, 0, 205)
 hexcolor(15, 9, 205)
 blend(['#000000', '#778899'])
 blend(['#E6E6FA', '#FF69B4', '#B0C4DE'])
+
+# Outputs
+# #FF6347
+# #B8860B
+# #BDB76B
+# #0000CD
+# #0F09CD
+# Blended 2 number of hex colors to obtain: #3C444C
+# Blended 3 number of hex colors to obtain: #DCB1D9
